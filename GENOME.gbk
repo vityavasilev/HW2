@@ -1,0 +1,20 @@
+LOCUS       scaffold1_cov463         131 bp    DNA              UNK 01-JAN-1980
+DEFINITION  scaffold1_cov463.
+ACCESSION   scaffold1_cov463
+VERSION     scaffold1_cov463
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     CDS             31..1001
+                     /locus_tag="LT1"
+                     /translation="IIYIAIDRRDQLSQ"
+     CDS             1351..2192
+                     /locus_tag="LT2"
+                     /translation="FR*LSSIASASA*H"
+ORIGIN
+        1 taagcgctca agcaacccca cctaccaatt taaataaccg ccagttctat attttccggc
+       61 agcagttttt caatatcttc caccgtttca cagtgcggca atcgcgtcag taccgtacgt
+      121 aaatacgcgt a
+//
